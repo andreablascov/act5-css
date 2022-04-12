@@ -1,0 +1,180 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+:root{
+    /* Creo un color llamado --color-horas */
+    --color-horas:   #34db64 ;
+    /* Creo un color llamado --color-días */
+    --color-dias:  #37db34;
+    /* Creo un color llamado --color-historia */
+    --color-historia: #3498db;
+    --color-mate:  #ccdb34;
+    --color-valen: #db3455;
+    --color-caste:  #34dbab;
+    --color-inlges:  #3434db;
+    --color-info: #db34c2;
+    --color-cultura:  #9434db;
+    --color-bio: #db3434;
+    --color-fyq:  #34c4db;
+    --color-religio: #3482db;
+    --color-ef: #34db88;
+    --color-tutoria:  #720c90 ;
+    --color-pati:  #900C3F;
+}
+.nomenclatura-mate{
+    /* Utilizo el color que he creado antes (--color-mate) */
+    background-color: var(--color-mate);
+    width: 50px;
+}
+
+.nomenclatura-caste{
+    /* Utilizo el color que he creado antes (--color-caste) */
+    background-color: var(--color-caste);
+    width: 50px;
+}
+.nomenclatura-valen{
+    /* Utilizo el color que he creado antes (--color-valen) */
+    background-color: var(--color-valen);
+    width: 50px;
+}
+
+.nomenclatura-ingles{
+    /* Utilizo el color que he creado antes (--color-ingles) */
+    background-color: var(--color-inlges);
+    width: 50px;
+}
+.nomenclatura-fyq{
+    /* Utilizo el color que he creado antes (--color-fyq) */
+    background-color: var(--color-fyq);
+    width: 50px;
+}
+
+.nomenclatura-bio{
+    /* Utilizo el color que he creado antes (--color-bio) */
+    background-color: var(--color-bio);
+    width: 50px;
+}
+.nomenclatura-historia{
+    /* Utilizo el color que he creado antes (--color-historia) */
+    background-color: var(--color-historia);
+    width: 50px;
+}
+
+.nomenclatura-ef{
+    /* Utilizo el color que he creado antes (--color-ef) */
+    background-color: var(--color-ef);
+    width: 50px;
+}
+.nomenclatura-cultura{
+    /* Utilizo el color que he creado antes (--color-cultura) */
+    background-color: var(--color-cultura);
+    width: 50px;
+}
+
+.nomenclatura-religio{
+    /* Utilizo el color que he creado antes (--color-religio) */
+    background-color: var(--color-religio);
+    width: 50px;
+}
+.nomenclatura-info{
+    /* Utilizo el color que he creado antes (--color-info) */
+    background-color: var(--color-info);
+    width: 50px;
+}
+.Tutoria{
+    /* Utilizo el color que he creado antes (--color-tutoria) */
+    background-color: var(--color-tutoria) ;
+    width: 50px;
+    color: white;
+}
+
+.Info{
+    /* Utilizo el color que he creado antes (--color-info) */
+    background-color: var(--color-info);
+    width: 50px;
+    color: white;
+    }
+.Caste{
+    background-color: var(--color-caste) ;
+    width: 50px;
+    color: white;
+}
+
+
+.ef{
+    background-color: var(--color-ef);
+    width: 50px;
+    color: white;
+}
+.bio{
+    background-color: var(--color-bio) ;
+    width: 50px;
+    color: white;
+}
+
+.Fyq{
+    background-color: var(--color-fyq);
+    width: 50px;
+    color: white;
+}
+.horas{
+    background-color: var(--color-horas) ;
+    width: 50px;
+    color: white;
+}
+.historia{
+    background-color: var(--color-historia) ;
+    width: 50px;
+    color: white;
+}
+.valen{
+    background-color: var(--color-valen) ;
+    width: 50px;
+    color: white;
+}
+
+.ingles{
+    background-color: var(--color-inlges) ;
+    width: 50px;
+    color: white;
+}
+.mate{
+    background-color: var(--color-mate) ;
+    width: 50px;
+    color: white;
+}
+.cultura{
+    background-color: var(--color-cultura) ;
+    width: 50px;  
+    color: white;
+}
+.religio{
+    background-color: var(--color-religio) ;
+    width: 50px;
+    color: white;
+}
+.pati{
+    background-color: var(--color-pati) ;
+    color: white;
+}
+.dias{
+    background-color: var(--color-dias) ;
+    width: 50px;   
+    color: white;
+}
+.tabla-horario td, th{
+    padding: 3px;
+    border:1px solid black;
+}
+.tabla-colores{
+    margin: 30px auto;
+}
+.tabla-horario{
+    border-collapse: collapse;
+    margin: 30px auto;
+}
+h1{
+    margin: 50px;
+    text-align: center;
+}
